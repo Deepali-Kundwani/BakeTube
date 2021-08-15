@@ -12,6 +12,7 @@ function VideoList() {
     axios
       .get(playlistId)
       .then(function (response) {
+        console.log(response.data.data);
         dispatchData({
           type: "setNewData",
           fetchedVideoPlaylist: response.data.data
