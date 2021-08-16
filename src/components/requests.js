@@ -1,5 +1,5 @@
 const requests = {
-  fetchJava: "https://Auth-API.rahulgupta99.repl.co/video/category/java",
+  fetchJava: "https://BakeTube-backend.codezillaa.repl.co/video/category/java",
   fetchjavaScript:
     "https://Auth-API.rahulgupta99.repl.co/video/category/javascript",
 
