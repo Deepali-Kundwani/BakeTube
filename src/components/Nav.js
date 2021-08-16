@@ -10,12 +10,12 @@ export default function Nav() {
     <>
       <nav className="nav-container">
         <ul className="left">
-          <li onClick={() => setPlaylistId(requests.fetchJava)}>Java</li>
+          <li onClick={() => setPlaylistId(requests.fetchJava)}>bake</li>
           <li onClick={() => setPlaylistId(requests.fetchjavaScript)}>
-            JavaScript
+            choco
           </li>
-          <li onClick={() => setPlaylistId(requests.fetchNeog)}>Neog</li>
-          <li onClick={() => setPlaylistId(requests.fetchReact)}>React</li>
+          <li onClick={() => setPlaylistId(requests.fetchNeog)}>caramel</li>
+          <li onClick={() => setPlaylistId(requests.fetchReact)}>sweets</li>
         </ul>
       </nav>
     </>

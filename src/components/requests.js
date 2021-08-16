@@ -1,10 +1,10 @@
 const requests = {
-  fetchJava: "https://BakeTube-backend.codezillaa.repl.co/video/category/java",
+  fetchJava: "https://BakeTube-backend.codezillaa.repl.co/video/category/bake",
   fetchjavaScript:
-    "https://Auth-API.rahulgupta99.repl.co/video/category/javascript",
+    "https://BakeTube-backend.codezillaa.repl.co/video/category/choco",
 
-  fetchNeog: "https://Auth-API.rahulgupta99.repl.co/video/category/neog",
-  fetchReact: "https://Auth-API.rahulgupta99.repl.co/video/category/react"
+  fetchNeog: "https://BakeTube-backend.codezillaa.repl.co/video/category/caramel",
+  fetchReact: "https://BakeTube-backend.codezillaa.repl.co/video/category/sweets"
 };
 
 export default requests;
